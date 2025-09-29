@@ -1,4 +1,4 @@
-# Discovery Tracker
+# Discovery Music Tracker
 
 A web application for tracking and discovering music artists, their concert locations, dates, and more. Built with Go.
 
